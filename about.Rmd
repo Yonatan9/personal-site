@@ -2,4 +2,8 @@
 title: "About Yonatan"
 ---
 
-Yonatan is a thoughtful and compassionate Doctor
+- __Name__: Yonatan ( I go by Yoni)
+- __Occupation__: Current TB Researcher, and future Doctor
+- __Where am I from__: I was born and raised in Addis Ababa Ethiopia
+Recent Photo
+![](YonsPic.jpg)
