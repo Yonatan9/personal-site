@@ -4,6 +4,8 @@ title: "Yonatan Degefu"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="YonsPic.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left"> 
+<img src="YonsPic.jpg" style="width:50%;height = 50%;border:5px solid; margin-right: 60px" align="left"> 
 
 I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to developing better drug combinations that can change the outcome of Tuberculosis treatment at [Tufts Medical School](https://sites.tufts.edu/aldridgelab/research-2/) in the department of Molecular Biology and Microbiology. 
+
+I graduated from Colby-Sawyer college with a bachelors in Biology, and minors in Math and Chemistry. I have always been interested in developing tools that allows us to investigate different emergent phenomena in the biological world. After graduation, I joined the Aldridge lab at Tufts where I got the opportunity to develop different analogical tools and machine learning pipelines that aided in systematically testing different antibiotic combinations against TB.

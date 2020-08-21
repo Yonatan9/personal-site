@@ -1,5 +1,5 @@
 ---
-title: "About Yonatan"
+title: "More about me"
 ---
 
 - __Name__: Yonatan ( I go by Yoni)
@@ -8,4 +8,4 @@ title: "About Yonatan"
 - __Goals__: My goal is to one day become a physciain so I can be of service to others
 
 Recent Photo
-![](YonsPic.jpg)
+![](MountainPic.jpg)
