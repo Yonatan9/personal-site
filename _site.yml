@@ -1,9 +1,22 @@
-name: "Yonis-website"
+name: "Yonatan N. Degefu"
 output_dir: "."
 navbar:
-  title: "Yonis Website"
+  title: "Yonatan N. Degefu"
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
+    - text: "Current Project"
       href: about.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/Yonatan9
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/yonaneg
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/yonatan-degefu-b16955a9
+output:
+  html_document:
+    theme: flatly
+    css: style.css

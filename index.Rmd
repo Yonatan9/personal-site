@@ -1,5 +1,9 @@
 ---
-title: "Yoni's Website"
+title: "Yonatan Degefu"
 ---
 
-Salulations my fellow earthlings
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="YonsPic.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left"> 
+
+I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to developing better drug combinations that can change the outcome of Tuberculosis treatment at [Tufts Medical School](https://sites.tufts.edu/aldridgelab/research-2/) in the department of Molecular Biology and Microbiology. 

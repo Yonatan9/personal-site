@@ -5,5 +5,7 @@ title: "About Yonatan"
 - __Name__: Yonatan ( I go by Yoni)
 - __Occupation__: Current TB Researcher, and future Doctor
 - __Where am I from__: I was born and raised in Addis Ababa Ethiopia
+- __Goals__: My goal is to one day become a physciain so I can be of service to others
+
 Recent Photo
 ![](YonsPic.jpg)
